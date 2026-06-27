@@ -1,0 +1,9 @@
+{
+  "pose_mapping": {
+    "184a36114f48be09a03ae4995f1ca1a9": "datasets/184a36114f48be09a03ae4995f1ca1a9.jpg",
+    "allu_arjun_rare_photos_643127eaa29a6": "datasets/Allu-Arjun-rare-photos_643127eaa29a6.webp",
+    "eo3xrwuuuaednlt": "datasets/EO3xRwuUUAEDnLt.jpg",
+    "hfudoq5auaammox": "datasets/HFudoQ5aUAAMMOx.jpg"
+  },
+  "instructions": "Map pose labels (keys) to image paths (values). Labels are normalized to lowercase. When a pose is detected with matching label, this image will display instead of the auto-detected one."
+}
