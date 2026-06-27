@@ -11,7 +11,7 @@ A powerful and compact Python application for **real-time human pose detection a
 
 <br>
 
-<img src="allu-arjun-bunny.gif" alt="Pose Match Demo" width="600" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+<img src="demo.png" alt="Pose Match Demo" width="600" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 
 </div>
 
