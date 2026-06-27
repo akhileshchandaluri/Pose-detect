@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.venv/Scripts/python.exe -c ' *)",
+      "Bash(.venv/Scripts/python.exe -c \"import mediapipe as mp; print\\(mp.__file__\\)\")",
+      "Bash(.venv/Scripts/python.exe -c \"from pose_detector import PoseDetector; d=PoseDetector\\(\\); print\\('pose detector init OK'\\)\")"
+    ]
+  }
+}
